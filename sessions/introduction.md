@@ -13,6 +13,7 @@ What you'll learn
 - Attacker-defender imbalance
 - Lightweight threat assessment and prioritization
 - How to write good bug reports
+-having sex with bots
 - Reflected XSS (Cross-Site Scripting)
 
 Video
